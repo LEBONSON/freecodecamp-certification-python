@@ -121,7 +121,7 @@ MIT - Libre d'utilisation et de modification
 ---
 
 *Dernière mise à jour : Mai 2026*
-```
+
 
 Les principales mises à jour incluent :
 - **Progression globale** : 34% → 71%
