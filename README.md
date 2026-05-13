@@ -1,6 +1,7 @@
+
 # 🐍 Scientific Computing with Python Certification - freeCodeCamp
 
-![freeCodeCamp Progress](https://img.shields.io/badge/progress-71%25-blue)
+![freeCodeCamp Progress](https://img.shields.io/badge/progress-34%25-blue)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
@@ -21,39 +22,19 @@ Ce dépôt documente mon parcours d'apprentissage pour obtenir la **Scientific C
 | Booleans & Conditionals | Complet | ✅ Validé |
 | Functions & Scope | Complet | ✅ Validé |
 | Loops & Sequences | 29/31 | 🔄 En cours |
-| Dictionaries & Sets | 48/50 | 🟡 En cours |
-| Error Handling | 5/7 | 🔄 En cours |
-| Classes & Objects | 69/71 | 🟡 En cours |
-| OOP | 121/123 | 🟡 En cours |
-| Linear Data Structures | 1/32 | ⏳ Débuté |
+| **Dictionaries & Sets** | **48/50** | **🟡 En cours** |
+| Error Handling | 0/7 | ⏳ À venir |
+| Classes & Objects | 0/71 | ⏳ À venir |
+| OOP | 0/123 | ⏳ À venir |
+| Linear Data Structures | 0/32 | ⏳ À venir |
 | Algorithms | 0/49 | ⏳ À venir |
 | Graphs & Trees | 0/51 | ⏳ À venir |
 | Dynamic Programming | 0/4 | ⏳ À venir |
 
-**Total : 376 / 526 étapes** (71%)
-
----
-
-## ✅ Projets de certification réalisés
-
-| Projet | Module | Statut |
-|--------|--------|--------|
-| Medical Data Validator | Dictionaries & Sets | ✅ Terminé |
-| User Configuration Manager | Dictionaries & Sets | ✅ Terminé |
-| ISBN Debugger | Error Handling | ✅ Terminé |
-| Budget App | Classes & Objects | ✅ Terminé |
-| Polygon Area Calculator | OOP | ✅ Terminé |
-
----
-
-## 🚀 Projets à venir
-
-| Projet | Module |
-|--------|--------|
-| Linked List | Linear Data Structures |
-| Hash Table | Linear Data Structures |
-| Tower of Hanoi | Algorithms |
+**Total : 177 / 526 étapes** (34%)
 
 ---
 
 ## 📁 Structure du dépôt
+mettre a jour mon readme Passer au contenu
+Recherchez 12 600+ de nos livres et cours
